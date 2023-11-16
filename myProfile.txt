@@ -1,0 +1,7 @@
+Nama : Danendra
+Umur : 19
+Pekerjaan : Mahasiswa
+
+Nama : Sajana
+Umur : 22
+Pekerjaan : Guru
